@@ -1,0 +1,4 @@
+[openssl]
+CPP program to encrypt data using openSSL library
+Also decrypt the same using openSSL library
+Using builtin cipher Algorithm present in OpenSSL
